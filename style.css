@@ -411,6 +411,7 @@ a:hover{
 	text-align: center;
 	margin-top: 1.5rem;
 	padding-top: 2.5rem;
+	padding-bottom: 0rem;
 	font-size: 2rem;
 	color: #333;
 	border-top: .1rem solid rgba(0,0,0,.1);
