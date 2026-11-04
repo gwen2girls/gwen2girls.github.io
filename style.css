@@ -419,9 +419,15 @@ a:hover{
 .footer .credit span{
 	color: var(--midblue);
 }
-
-
-
+.footer .credit p{
+	text-align: center;
+	padding: 1.5rem;
+	margin-top: 1.5rem;
+	padding-top: 2.5rem;
+	font-size: 1rem;
+	color: #333;
+	border-top: .1rem solid rgba(0,0,0,.1);
+}
 
 
 
